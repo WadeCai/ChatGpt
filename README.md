@@ -18,13 +18,17 @@ ChatGpt Project
 # Client
 This is client page
 
+``` cmd
 cd client
 npm init
 npm run dev
+```
 
 # Server
 This is server back-end program
 
+``` cmd
 cd server
 npm init
 npm run server
+```
